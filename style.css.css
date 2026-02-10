@@ -1,0 +1,29 @@
+    #para{
+      background-color: rgb(174, 168, 204);
+      text-decoration: dotted;
+    }
+    .id{
+      text-align: center;
+      color:rgb(89, 47, 255); 
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+       font-weight: 200;
+    }
+    body{
+      background-color: rgb(174, 168, 204);
+      text-decoration: dotted;
+      margin:auto;
+      } 
+    h1 {
+      color: rgb(102, 83, 178);
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+      font-weight: 100;
+      }
+    p{
+      font-size: 20px;
+      color: rgb;
+      font-weight: 500;}
+    a{
+      text-decoration: dotted;
+      font-size: 20px;
+      color:rgb;
+      }
